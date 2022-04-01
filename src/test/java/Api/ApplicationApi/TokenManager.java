@@ -31,6 +31,7 @@ public class TokenManager {
         }
         catch (Exception e)
         {
+            e.printStackTrace();
            throw new RuntimeException("Abort !!! failed to generate token");
         }
         return access_token;
