@@ -4,6 +4,7 @@ public class DummyClass {
 
     //this class is created for github learing
     public void dummyClass(){
-        System.out.println("dummy class");
+
+
     }
 }
